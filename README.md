@@ -34,7 +34,7 @@ Excel (data preparation), Tableau Public (interactive dashboard)
 
 ---
 
-### 💰 Personal Wealth Tracker  
+### 💰 Individual Wealth Tracker  
 **Purpose:**  
 Developed to track and manage overall financial health, this tool consolidates various income streams, savings accounts, fixed assets, and expenses into a single dashboard — providing better visibility and supporting more effective financial planning.
 
@@ -47,8 +47,9 @@ Developed to track and manage overall financial health, this tool consolidates v
 
 **Links:**  
 🔗 [View Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1eiKF-tR66RumdPlj23PQb3Jd6KMo3gfiCpNdFeeFuAI/edit?gid=2081726773#gid=2081726773)  
-📁 [View GitHub Repository](https://github.com/citaalunsukma/wealth-tracker)
+📁 [View GitHub Repository](https://github.com/citaalunsukma/Individual-Wealth-Tracker)
 
 **Preview:**  
-![Wealth Tracker Screenshot](wealth-tracker/screenshot.png)
+![Financial Ecosystem Dashboard](https://github.com/citaalunsukma/Individual-Wealth-Tracker/blob/65f817f6cfd4c6319c14b78091623a8c26ccef2c/Spreadsheet-Dashboard-Screenshots/Financial%20Ecosystem%20-%20Dashboard.JPG?raw=true)
+
 
