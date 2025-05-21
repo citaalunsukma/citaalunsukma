@@ -17,9 +17,6 @@ Designed to help stakeholders plan future music festivals - from choosing the nu
 **Key Tools:**  
 Excel (data preparation), Tableau Public (interactive dashboard)
 
-**Dashboard Link:**  
-🔗 [Music Festival Yearly Insights](https://public.tableau.com/app/profile/cita.alun.sukma/viz/MusicFestivalInsightsDashboard/MusicFestivalInsightsDashboard20152024)
-
 **Highlights:**  
 - Yearly Ticket Sales Overview  
 - Weekly Revenue Progress  
@@ -27,5 +24,31 @@ Excel (data preparation), Tableau Public (interactive dashboard)
 - Ticket Type Distribution  
 - Regional Breakdown of Attendees
 
+**Links:**  
+🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/cita.alun.sukma/viz/MusicFestivalInsightsDashboard/MusicFestivalInsightsDashboard20152024)  
+📁 [View GitHub Repository](https://github.com/citaalunsukma/Music-Festival-Yearly-Insights)
+
+
 **Preview:**  
-![Festival Dashboard Screenshot](festival-dashboard/screenshot.png)
+![Music Festival Dashboard Screenshot](https://github.com/citaalunsukma/Music-Festival-Yearly-Insights/blob/5e9ceae64cb2f2e0081d4a9dc112111142a97af7/Tableau-Dashboard-Screenshots/Music%20Festival%20Insights%20Dashboard%20-%20Yearly%20Ticket%20Sold%20%26%20Revenue.png)
+
+---
+
+### 💰 Personal Wealth Tracker  
+**Purpose:**  
+Developed to track and manage overall financial health, this tool consolidates various income streams, savings accounts, fixed assets, and expenses into a single dashboard — providing better visibility and supporting more effective financial planning.
+
+**Key Tools:** Google Sheets  
+
+**Highlights:**  
+- Tracks total wealth growth over time  
+- Consolidates fixed assets, income, and expenses
+- Provides a yearly summary of spending and saving behavior
+
+**Links:**  
+🔗 [View Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1eiKF-tR66RumdPlj23PQb3Jd6KMo3gfiCpNdFeeFuAI/edit?gid=2081726773#gid=2081726773)  
+📁 [View GitHub Repository](https://github.com/citaalunsukma/wealth-tracker)
+
+**Preview:**  
+![Wealth Tracker Screenshot](wealth-tracker/screenshot.png)
+
